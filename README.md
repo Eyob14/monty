@@ -101,4 +101,5 @@ gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 
 ## Authors
 * **Eyob Zebene** - [eyob14](https://github.com/Eyob14)
-* **Wescott Sharples** - [anduti724](https://github.com/anduti724)
+* **Wescott Sharples** - [anduti724](https://github.com/Anduti724)
+
